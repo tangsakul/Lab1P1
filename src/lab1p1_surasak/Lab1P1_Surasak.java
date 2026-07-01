@@ -17,5 +17,4 @@ public class Lab1P1_Surasak {
         // TODO code application logic here
         System.out.println(args[0]);
     }
-    
-}
+  }
