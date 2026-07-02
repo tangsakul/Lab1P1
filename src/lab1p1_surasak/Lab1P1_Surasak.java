@@ -15,8 +15,6 @@ public class Lab1P1_Surasak {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("This is new update :"+args[0]);
+         System.out.println("Update from the Left Dev :"+args[0]);
     }
   }
-
-// tangsakul/Gradleproject2test-fromNetbeans
