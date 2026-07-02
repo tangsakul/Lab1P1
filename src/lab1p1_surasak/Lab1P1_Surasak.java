@@ -18,3 +18,5 @@ public class Lab1P1_Surasak {
         System.out.println(args[0]);
     }
   }
+
+// tangsakul/Gradleproject2test-fromNetbeans
