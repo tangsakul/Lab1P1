@@ -15,7 +15,7 @@ public class Lab1P1_Surasak {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("This is new update :"+args[0]);
+        System.out.println("This is new update from the Master :"+args[0]);
     }
   }
 
