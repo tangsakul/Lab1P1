@@ -9,8 +9,5 @@ package lab1p1_surasak;
  * @author Surasak
  */
 public class MyCalculator {
-    public double Add(double x, double y){
-        return x+y;
-    }
-    
+
 }
